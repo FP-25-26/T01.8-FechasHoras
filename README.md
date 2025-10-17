@@ -1,4 +1,4 @@
-# T01.7-FechasHoras
+# T01.8-FechasHoras
 El objetivo de este proyecto es trabajar con los tipos python para fechas, horas e intervalos temporales.
 
 1. Escribe un programa que solicite a un usuario su fecha de nacimiento y devuelva el día de la semana en el que nació. Descompon el programa en tres funciones: '
