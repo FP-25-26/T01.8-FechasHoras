@@ -32,15 +32,15 @@ Ejemplo de uso:
 >>> 2001
 >>> Hola, Jane, buenas tardes! Tu fecha de nacimiento fue Viernes
 ```
-4. Implemente una función `calcula_edad` que, dada la fecha de nacimiento de una persona, devuelva la edad que tiene.
+3. Implemente una función `calcula_edad` que, dada la fecha de nacimiento de una persona, devuelva la edad que tiene.
 
-5. Modifica la `namedtuple` definida en el proyecto T01.7-Listas y tuplas [https://github.com/FP-25-26/T01.7-Listas-y-tuplas]  para añadir un último campo de tipo fecha que represente la fecha de nacimiento de la persona.
+4. Modifica la `namedtuple` definida en el proyecto T01.7-Listas y tuplas [https://github.com/FP-25-26/T01.7-Listas-y-tuplas]  para añadir un último campo de tipo fecha que represente la fecha de nacimiento de la persona.
 
 ```python
 Persona = namedtuple ("Persona", "nombre, peso, estatura, fecha_nacimiento")
 ```
-6. Modifica la función de lectura de ficheros para poder leer datos de personas con fechas de nacimiento. Prueba la lectura con el archivo `personas_fechas.csv` que se proporciona en la carpeta data
+5. Modifica la función de lectura de ficheros para poder leer datos de personas con fechas de nacimiento. Prueba la lectura con el archivo `personas_fechas.csv` que se proporciona en la carpeta data
 
-7. Añade una funcion `son_mayores_edad` que dada una lista de tuplas de tipo Persona, devuelva cierto si todas las personas de la lista son mayores de edad, y falso en caso contrario.
+6. Añade una funcion `son_mayores_edad` que dada una lista de tuplas de tipo Persona, devuelva cierto si todas las personas de la lista son mayores de edad, y falso en caso contrario.
 
 
