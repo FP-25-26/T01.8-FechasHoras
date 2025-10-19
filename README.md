@@ -34,7 +34,7 @@ Ejemplo de uso:
 ```
 4. Implemente una función `calcula_edad` que, dada la fecha de nacimiento de una persona, devuelva la edad que tiene.
 
-5. Modifica la `namedtuple` definida en el proyecto T01.6-Ejer-listas-tuplas [https://github.com/FP-24-25/T01.6-Ejer-listas-tuplas]  para añadir un último campo de tipo fecha que represente la fecha de nacimiento de la persona.
+5. Modifica la `namedtuple` definida en el proyecto T01.7-Listas y tuplas [https://github.com/FP-25-26/T01.7-Listas-y-tuplas]  para añadir un último campo de tipo fecha que represente la fecha de nacimiento de la persona.
 
 ```python
 Persona = namedtuple ("Persona", "nombre, peso, estatura, fecha_nacimiento")
